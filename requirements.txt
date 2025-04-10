@@ -1,0 +1,6 @@
+flask
+flask-cors
+stripe
+pymongo
+werkzeug
+psycopg2-binary

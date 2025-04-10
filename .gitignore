@@ -1,0 +1,6 @@
+.env
+jwt/*
+field_type.json
+index.html
+vercel.json
+__pycache__/
